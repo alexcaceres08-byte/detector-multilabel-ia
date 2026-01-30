@@ -1,5 +1,5 @@
 # 🧠 Detector Multilabel IA con Aprendizaje Activo
-
+pROYECTO NOMBRE CORREROS PERSONALES, ESTACK TECNOLOGICO, Y REQURIMIENTOS 
 Esta es una aplicación de Inteligencia Artificial capaz de detectar múltiples objetos en una misma imagen (Aviones, Autos, Barcos).
 Incluye un sistema de **Active Learning** que permite re-entrenar el modelo desde la propia interfaz web.
 
@@ -17,4 +17,5 @@ Incluye un sistema de **Active Learning** que permite re-entrenar el modelo desd
 ## Instalación
 1. Clonar el repositorio.
 2. Instalar dependencias: `pip install -r requirements.txt`
+
 3. Ejecutar: `cd app && uvicorn main:app --reload`
